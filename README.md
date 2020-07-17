@@ -1,1 +1,3 @@
-# Ubuntu-dual-display-via-network-
+# Ubuntu-dual-display-via-network
+
+
