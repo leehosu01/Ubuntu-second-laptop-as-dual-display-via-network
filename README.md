@@ -1,8 +1,8 @@
 # Ubuntu-dual-display-via-network
 
 make vnc and xrandr for extend display.
-without any virture port or additional port.
-it requires only your current monior port.
+
+without any virtual port or additional port. It requires only your current monitor port.
 
 example: 1920x1080 -> 3840x1080 by xrandr and vnc with -clip 3840x1080+1920+0
 
