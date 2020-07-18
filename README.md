@@ -32,6 +32,8 @@ The specific terminal command will be upload tomorrow, KST 7.18 12:00-
 > >run `sh server.sh 'eDP' <reshape_col> <reshape_row> <pos_col> <pos_row>`
 > >each defualt value is 3840, 1080, 1920, 0
 > >
+> >custom example: run `sh server.sh 'eDP' 3640 1080 1700 0`
+> >
 > >![image](https://user-images.githubusercontent.com/40295460/87844622-cffb8280-c8f9-11ea-91c4-86a6f15eaaf9.png)
 > >
 > >in the last line, `PORT=5900` is your port. Remember it!
