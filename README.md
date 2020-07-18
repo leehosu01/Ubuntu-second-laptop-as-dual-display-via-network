@@ -1,4 +1,4 @@
-# Ubuntu-second-laptop-as-dual-display-via-network
+# [Ubuntu] second laptop as dual display via network
 
 make vnc and use xrandr to extend the display from the second laptop.
 
